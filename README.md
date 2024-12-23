@@ -63,8 +63,8 @@ Deseja continuar [s/n]:
 
 ## Como Executar
 
-1. Baixe ou clone este repositório.
-2. Abra o código em uma IDE (por exemplo, IntelliJ IDEA, Eclipse) ou no terminal.
+1. Baixe ou clone este repositório
+2. Abra o código em uma IDE (por exemplo, IntelliJ IDEA, Eclipse) ou no terminal
 3. Compile o programa:
    ```shell
    javac App.java
